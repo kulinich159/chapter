@@ -1,0 +1,46 @@
+
+
+[2021-08-17 00:20:25] [INFO ] MainClass:174 - -Info-
+[2021-08-17 00:20:25] [ERROR] MainClass:176 - -Error-
+[2021-08-17 00:25:12] [INFO ] MainClass:174 - -Info-
+[2021-08-17 00:25:12] [ERROR] MainClass:176 - -Error-
+[2021-08-17 00:45:27] [INFO ] Dollar:37 - For 100.0 (27.0) Dollar, you get 2430.0 UAH
+[2021-08-17 00:45:27] [INFO ] Dollar:37 - For 100.0 (29.0) Dollar, you get 2610.0 UAH
+[2021-08-17 00:45:27] [INFO ] Euro:37 - For 100.0 (32.5) Euro, you get 2925.0 UAH
+[2021-08-17 00:45:27] [INFO ] Euro:37 - For 150.0 (31.6) Euro, you get 4029.0 UAH
+[2021-08-17 00:45:27] [INFO ] CanDollar:37 - For 100.0 (24.0) CDOL, you get 1680.0 UAH
+[2021-08-17 00:45:27] [INFO ] Euro:37 - For 150.0 (31.6) Euro, you get 4029.0 UAH
+[2021-08-17 00:45:27] [INFO ] MainClass:174 - -Info-
+[2021-08-17 00:45:27] [ERROR] MainClass:176 - -Error-
+[00:46:16] [INFO ] Dollar:37 - For 100.0 (27.0) Dollar, you get 2430.0 UAH
+[00:46:16] [INFO ] Dollar:37 - For 100.0 (29.0) Dollar, you get 2610.0 UAH
+[00:46:16] [INFO ] Euro:37 - For 100.0 (32.5) Euro, you get 2925.0 UAH
+[00:46:16] [INFO ] Euro:37 - For 150.0 (31.6) Euro, you get 4029.0 UAH
+[00:46:16] [INFO ] CanDollar:37 - For 100.0 (24.0) CDOL, you get 1680.0 UAH
+[00:46:16] [INFO ] Euro:37 - For 150.0 (31.6) Euro, you get 4029.0 UAH
+[00:46:16] [INFO ] MainClass:174 - -Info-
+[00:46:16] [ERROR] MainClass:176 - -Error-
+[00:46:53] [INFO ] Dollar:37 - For 100.0 (27.0) Dollar, you get 2430.0 UAH
+[00:46:53] [INFO ] Dollar:37 - For 100.0 (29.0) Dollar, you get 2610.0 UAH
+[00:46:53] [INFO ] Euro:37 - For 100.0 (32.5) Euro, you get 2925.0 UAH
+[00:46:53] [INFO ] Euro:37 - For 150.0 (31.6) Euro, you get 4029.0 UAH
+[00:46:53] [INFO ] CanDollar:37 - For 100.0 (24.0) CDOL, you get 1680.0 UAH
+[00:46:53] [INFO ] Euro:37 - For 150.0 (31.6) Euro, you get 4029.0 UAH
+[00:46:53] [INFO ] MainClass:174 - -Info-
+[00:46:53] [ERROR] MainClass:176 - -Error-
+[00:47:46] [INFO ] Dollar:37 - For 100.0 (27.0) Dollar, you get 2430.0 UAH
+[00:47:46] [INFO ] Dollar:37 - For 100.0 (29.0) Dollar, you get 2610.0 UAH
+[00:47:46] [INFO ] Euro:37 - For 100.0 (32.5) Euro, you get 2925.0 UAH
+[00:47:46] [INFO ] Euro:37 - For 150.0 (31.6) Euro, you get 4029.0 UAH
+[00:47:46] [INFO ] CanDollar:37 - For 100.0 (24.0) CDOL, you get 1680.0 UAH
+[00:47:46] [INFO ] Euro:37 - For 150.0 (31.6) Euro, you get 4029.0 UAH
+[00:47:46] [INFO ] MainClass:172 - -Info-
+[00:47:46] [ERROR] MainClass:174 - -Error-
+2021-17-08 00:52:34  INFO [currency.Dollar] : For 100.0 (27.0) Dollar, you get 2430.0 UAH
+2021-17-08 00:52:34  INFO [currency.Dollar] : For 100.0 (29.0) Dollar, you get 2610.0 UAH
+2021-17-08 00:52:34  INFO [currency.Euro] : For 100.0 (32.5) Euro, you get 2925.0 UAH
+2021-17-08 00:52:34  INFO [currency.Euro] : For 150.0 (31.6) Euro, you get 4029.0 UAH
+2021-17-08 00:52:34  INFO [currency.CanDollar] : For 100.0 (24.0) CDOL, you get 1680.0 UAH
+2021-17-08 00:52:34  INFO [currency.Euro] : For 150.0 (31.6) Euro, you get 4029.0 UAH
+2021-17-08 00:52:34  INFO [MainClass] : -Info-
+2021-17-08 00:52:34  ERROR [MainClass] : -Error-
